@@ -1,5 +1,9 @@
 # release-finder
 
+[![CI](https://github.com/skjaere/release-finder/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/skjaere/release-finder/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/skjaere/release-finder/branch/main/graph/badge.svg)](https://codecov.io/gh/skjaere/release-finder)
+[![](https://jitpack.io/v/skjaere/release-finder.svg)](https://jitpack.io/#skjaere/release-finder)
+
 Finds the releases of an episode or a movie across Newznab indexers, and ranks them for the device that will play them.
 Built on [newznab-kotlin](https://github.com/skjaere/newznab-kotlin).
 
