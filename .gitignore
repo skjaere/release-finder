@@ -1,0 +1,15 @@
+# Gradle
+.gradle/
+build/
+.kotlin/
+
+# IDE
+.idea/
+*.iml
+
+# Local settings and secrets
+local.properties
+.env*
+.claude/
+
+*.hprof
